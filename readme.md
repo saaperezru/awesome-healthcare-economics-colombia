@@ -10,24 +10,37 @@
 
 ## Bases de datos
 
- - BDUA
- - RETHUS
- - RIPS
- - REPS
- - MiPRES
+ - [SISPRO](https://web.sispro.gov.co/)
+ - [DIAN CUFE](https://catalogo-vpfe.dian.gov.co/User/SearchDocument)
+ - BDUA: Base de Datos Única de Afiliados
+ - RETHUS: Registro Único Nacional de Talento Humano en Salud
+ - RIPS: Registro Individual de Prestación de Servicios de Salud
+ - REPS: Entidades Prestadoras de Servicios de Salud
+ - MiPRES: Módulo de prescripción de medicamentos y dispositivos médicos
 
-## Terminology Sets
+## Formularios
+
+ - FEVRIPS
+ - FURTRAN
+ - FURIPS
+ - 
+
+## Tablas de referencias
 
 Términos y definiciones comunes en el ámbito de la facturación médica en Colombia que se han codificado y estandarizado
+
+https://web.sispro.gov.co/WebPublico/Consultas/ConsultarReferenciaBasica.aspx
+https://www.slideshare.net/slideshow/cups-estructura-y-manuales-tarifarios-salud/20606966#1
+
 
 | Terminology Set | Description | Maintainer | Update Frequency | Acutalizaciones | Link | Homólogos |
 |-----------------|-------------|------------|------------------|--------------|------| ----------|
 | MAPIPOS | Manual de Procedimientos e Intervenciones en Salud | Ministerio de Salud y Protección Social | | <ul><li>[Resolución 5261 de 1994]()</li></ul> | [Link](https://www.minsalud.gov.co/proteccionsocial/Paginas/mapipos.aspx) | |
 | SOAT | Sistema Obligatorio de Aseguramiento en Salud | Ministerio de Salud y Protección Social | | | [Link](https://www.minsalud.gov.co/proteccionsocial/Paginas/soat.aspx) | |
-| ISS | Incapacidad Temporal por Enfermedad General | Ministerio de Salud y Protección Social | | <ul><li>[]() </li></ul> | [Link]() | |
-| CUPS | Clasificación Única de Procedimientos en Salud | Ministerio de Salud y Protección Social  - Dirección de Regulación de Beneficios, Costos y Tarifas del Aseguramiento en Salud (DRBCTAS) | | <ul> <li>[Resolución 2333 de 2000](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%202333%20de%202000.PDF)</li> <li>[Resolución 4678 de 2015](https://normograma.adres.gov.co/compilacion/docs/resolucion_minsaludps_4678_2015.htm) </li> <li>Resolucion 2078 de 2021</li><li> [Resolución 2775 del 27 de diciembre de 2022.](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%202775%20de%202022.pdf) </li><li>[Resolución 2689 de 2024](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202689%20de%202024.pdf)</li><li>[Resolución 2641 de 2024](https://normograma.adres.gov.co/compilacion/docs/resolucion_minsaludps_2641_2024.htm)</li></ul> | <ul><li> [Buscador](https://cpockets.com/cups)</li><li>[Lista](https://web.sispro.gov.co/WebPublico/Consultas/ConsultarDetalleReferenciaBasica.aspx?Code=CUPS) </li></ul>  | HCPCS (Level I/CPT, Level II), ICD-10-PCS |
+| ISS | Incapacidad Temporal por Enfermedad General | Ministerio de Salud y Protección Social | | <ul><li>[ISS Acuerdo 256 de 2001]() </li> <li> [ISS Acuerdo 312 de 2004]() </li></ul> | [Link]() | |
+| CUPS | Clasificación Única de Procedimientos en Salud | Ministerio de Salud y Protección Social  - Dirección de Regulación de Beneficios, Costos y Tarifas del Aseguramiento en Salud ([DRBCTAS](https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VP/DOA/estudio-suficiencia-upc-2022.pdf)) | | <ul> <li>[Resolucion 365 de 1999](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%200365%20de%201999.PDF)</li> <li>[Resolución 2333 de 2000](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%202333%20de%202000.PDF)</li> <li>[Resolucion 1896 de 2001](https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/RESOLUCI%C3%93N_1896_de_2001.pdf) </li> <li>[Resolución 4678 de 2015](https://normograma.adres.gov.co/compilacion/docs/resolucion_minsaludps_4678_2015.htm) </li> <li>Resolucion 2078 de 2021</li><li>[Resolucion 2808 de 2022](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%202808%20de%202022.pdf) y [Anexos](https://coosalud.com/wp-content/uploads/2023/01/Anexo-2-CUPS-Resolucion-2808-de-2022.xlsx)</li> <li> [Resolución 2775 del 27 de diciembre de 2022.](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%202775%20de%202022.pdf) </li><li>[Resolución 2689 de 2024](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202689%20de%202024.pdf)</li><li>[Resolución 2641 de 2024](https://normograma.adres.gov.co/compilacion/docs/resolucion_minsaludps_2641_2024.htm)</li> <li>[Resolucion No 756 de 2025](https://minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No%20756%20de%202025.pdf)</li></ul> | <ul><li> [Buscador](https://cpockets.com/cups)</li><li>[Lista](https://web.sispro.gov.co/WebPublico/Consultas/ConsultarDetalleReferenciaBasica.aspx?Code=CUPS) </li></ul>  | HCPCS (Level I/CPT, Level II), ICD-10-PCS |
 | CUMS | Clasificación Única de Medicamentos y Suministros | Ministerio de Salud y Protección Social | | | [Link](https://app.invima.gov.co/cum/) | |
-| Glosas y devoluciones | Códigos y descripciones de glosas y devoluciones comunes en la facturación médica en Colombia | Ministerio de Salud y Protección Social | | <ul><li> [Resolución No 2284 de 2023](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202284%20de%202023.pdf) </li></ul> | [Link](https://miscuentasmedicas.com/Resolucion-3047-de-2008-anexo-tecnico-6-manual-de-glosas-devoluciones-y-respuestas) | N/A |
+| Glosas y devoluciones | Códigos y descripciones de glosas y devoluciones comunes en la facturación médica en Colombia | Ministerio de Salud y Protección Social | | <ul><li>[- Resolución 3047 de 2008 modificada por la Resolución 416 de 2009](https://www.minsalud.gov.co/salud/Documents/Anexo%20tecnico%20No.%20%206%20Res%203047-08%20y%20416-09.pdf)</li><li> [Resolución No 2284 de 2023](https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202284%20de%202023.pdf) </li></ul> | [Link](https://miscuentasmedicas.com/Resolucion-3047-de-2008-anexo-tecnico-6-manual-de-glosas-devoluciones-y-respuestas) | N/A |
 
 ## Manuales Tarifarios y Coberturas
 
